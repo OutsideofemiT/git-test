@@ -13,7 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## 🔗 Links
 
 - Live Site URL: [Add live site URL here](https://cwqrcode.netlify.app/)
-- Solution on Frontend Mentor: [Add solution URL here](https://your-solution-url.com)
 
 ---
 
