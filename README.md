@@ -57,7 +57,7 @@ I plan to revisit other HTML/CSS challenges to strengthen visual layout speed an
 - **Carmen Wheeler**
 - [GitHub](https://github.com/OutsideofemiT)
 - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/OutsideofemiT)
-- Portfolio: [cwport.netlify.app](https://cwport.netlify.app) *(optional placeholder)*
+- Portfolio: [cwport.netlify.app](https://cwport.netlify.app) 
 
 ---
 
