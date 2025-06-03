@@ -6,14 +6,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## 📸 Screenshot
 
-![Screenshot of QR Code Component](./images/QrCode.png)
+![image](https://github.com/user-attachments/assets/cf03c3ea-e0b2-42c0-a00b-8c58ac2c53f5)
+
 
 ---
 
 ## 🔗 Links
 
-- Live Site URL: [Add live site URL here](https://cwqrcode.netlify.app/)
-
+- Live Site URL: [https://cwqrcode.netlify.app/]
 ---
 
 ## 🛠️ My Process
